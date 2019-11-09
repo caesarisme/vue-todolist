@@ -1,4 +1,4 @@
-# vue-crash-course
+# Vue todo list
 
 ## Project setup
 ```
